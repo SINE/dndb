@@ -1,10 +1,10 @@
 <br />
 <p align="center">
   <a href="https://dndb.crawford.ml">
-    <img src="https://dndb.crawford.ml/_assets/dndblogo.c35b53e9.png" alt="Deno Logo" width="80" height="80">
+    <img src="	https://deno.land/logo.svg?__frsh_c=pa8bd97pdqzg" alt="Deno Logo" width="80" height="80">
   </a>
 <br />
-<p align="center"><a href="https://nest.land/package/dndb"><img src="https://nest.land/badge.svg" alt="nest badge"></a> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdenyncrawford%2Fdndb" alt="Hits"> <a href="https://deno.land"><img src="https://img.shields.io/badge/deno-v1.1.3-green.svg?style=flat-square&amp;logo=deno" alt="(Deno)"></a> <a href="https://github.com/denyncrawford/crawford/blob/master/LICENSE"><img src="https://img.shields.io/github/license/denyncrawford/dndb?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAEFCu8CAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAHKADAAQAAAABAAAAHAAAAABHddaYAAAC5UlEQVRIDd2WPWtVQRCGby5pVASLiGghQSxyG8Ui2KWwCfkH9olY2JneQkiR0oCIxH/gB+qVFDYBIWBAbAIRSbCRpLXwIxLiPT7vnNm9e87ZxJtUwYH3zO47Mzv7Mbv3tlo5KYriGtgAJ81OY1ENdG/YI4boFEOI911BXgY/pdtwGuAtXpvmB1tAXHDnUolE5urkPOQo6MqA3pXWmJJL4Bb4rQ7yEYfxsjnIF29NJIoNC6e5fxOL/qN+9KCz7AaLpN8zI415N2i2EptpGrkRIjGeAuvR6IY1hSFLFUOug9Ms2M7ZxIUNytm1mnME186sdI2BOCwAyQMg54ugzSmKmwbPwSbolKH+hbAtQdsOoF+BsF3anUVwBdiOWRidFZDKTTrKEAJTm3GVrGkHzw/uPZbyx7DNNLfB7KGmRsCcr+/gjaiPSpAOTyX9qG4L/XBDdWXDDf1M+wtQ5fwCOtcb4Dto6VpLmzByB6gqdHbTItGSJdAGqibJQhmRfCF7IN4beSF2G9CqnGXQrxofXU+EykllNeoczRgYytDKMubDIRK0g5MF8rE69cGu0u9nlUcqaUZ41W0qK2nGcSzr4D2wV9U9wxp1rnpxn8agXAOHMQ9cy9kbHM7ngY4gFb03TxrO/yfBUifTtXt78jCrjY/jgEFnMn45LuNWUtknuu7NSm7D3QEn3HbatV1Q2jvgIRf1sfODKQaeymxZoMLlTqsq1LF+HvaTqQOzEzUCfni0/eNIA+DfuE3KEtbsegckGmMktTXacnBHPVe687ugkpT+axCkkhBSyRSjWI2xf1KMMVmYiQdWksK9BEFiQoiYLIlvJA3/zeTzCejP0RbB6YPbhZuB+0pR3KcdX0LaJtju0ZgBL8Bd+sbz2QIaU2OfBX3BaQLsgZysQtrk0M8Sh1A0w3DyyYnGnAiZ4gqZ/TvI2A8OGd1YIbF7+F3P+B6dYpYdsJNZgrjO0UdOIhmom0nwL0pnfnzkL1803jAoKhvyAAAAAElFTkSuQmCC" alt="license"></a>
+<p align="center"><a href="https://deno.land"><img src="https://img.shields.io/badge/deno-v1.27.0-green.svg?style=flat-square&amp;logo=deno" alt="(Deno)"></a> <a href="https://github.com/denyncrawford/crawford/blob/master/LICENSE"><img src="https://img.shields.io/github/license/denyncrawford/dndb?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAEFCu8CAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAHKADAAQAAAABAAAAHAAAAABHddaYAAAC5UlEQVRIDd2WPWtVQRCGby5pVASLiGghQSxyG8Ui2KWwCfkH9olY2JneQkiR0oCIxH/gB+qVFDYBIWBAbAIRSbCRpLXwIxLiPT7vnNm9e87ZxJtUwYH3zO47Mzv7Mbv3tlo5KYriGtgAJ81OY1ENdG/YI4boFEOI911BXgY/pdtwGuAtXpvmB1tAXHDnUolE5urkPOQo6MqA3pXWmJJL4Bb4rQ7yEYfxsjnIF29NJIoNC6e5fxOL/qN+9KCz7AaLpN8zI415N2i2EptpGrkRIjGeAuvR6IY1hSFLFUOug9Ms2M7ZxIUNytm1mnME186sdI2BOCwAyQMg54ugzSmKmwbPwSbolKH+hbAtQdsOoF+BsF3anUVwBdiOWRidFZDKTTrKEAJTm3GVrGkHzw/uPZbyx7DNNLfB7KGmRsCcr+/gjaiPSpAOTyX9qG4L/XBDdWXDDf1M+wtQ5fwCOtcb4Dto6VpLmzByB6gqdHbTItGSJdAGqibJQhmRfCF7IN4beSF2G9CqnGXQrxofXU+EykllNeoczRgYytDKMubDIRK0g5MF8rE69cGu0u9nlUcqaUZ41W0qK2nGcSzr4D2wV9U9wxp1rnpxn8agXAOHMQ9cy9kbHM7ngY4gFb03TxrO/yfBUifTtXt78jCrjY/jgEFnMn45LuNWUtknuu7NSm7D3QEn3HbatV1Q2jvgIRf1sfODKQaeymxZoMLlTqsq1LF+HvaTqQOzEzUCfni0/eNIA+DfuE3KEtbsegckGmMktTXacnBHPVe687ugkpT+axCkkhBSyRSjWI2xf1KMMVmYiQdWksK9BEFiQoiYLIlvJA3/zeTzCejP0RbB6YPbhZuB+0pR3KcdX0LaJtju0ZgBL8Bd+sbz2QIaU2OfBX3BaQLsgZysQtrk0M8Sh1A0w3DyyYnGnAiZ4gqZ/TvI2A8OGd1YIbF7+F3P+B6dYpYdsJNZgrjO0UdOIhmom0nwL0pnfnzkL1803jAoKhvyAAAAAElFTkSuQmCC" alt="license"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdenyncrawford%2Fdndb?ref=badge_small"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdenyncrawford%2Fdndb.svg?type=small" alt="FOSSA Status"></a></p>
 
 <p align="center">
@@ -306,10 +306,7 @@ internal working will.
 
 # 👊 Support this project by donating on:
 
-- [Paypal](https://paypal.me/DENYNCRAWFORD?locale.x=en_US).
-- BTC address: 1AwAW9gj7zsHWjoawm1yFntjE69uvEjJTv
-- USDT adress (BSC) 0x9c83792244a8ee2e5b4c595b001ad8d7173e98bf
-- USDT adress (ERC20) 0x9c83792244a8ee2e5b4c595b001ad8d7173e98bf
+- [Paypal](https://www.paypal.me/paypalpotion).
 
 # 📜 MIT License
 
@@ -321,8 +318,8 @@ Copyright (c) Crawford.
 
 # Scripts
 
-| Type   | Command                                                                             |
-| ------ | ----------------------------------------------------------------------------------- |
-| Format | `deno fmt`                                                                          |
-| Lint   | `deno lint --unstable --ignore=test,demo`                                           |
-| Test   | `deno test --unstable --allow-read=. --allow-write=db.db,db.db.updated`             |
+| Type   | Command                                                                 |
+| ------ | ----------------------------------------------------------------------- |
+| Format | `deno fmt`                                                              |
+| Lint   | `deno lint --unstable --ignore=test,demo`                               |
+| Test   | `deno test --unstable --allow-read=. --allow-write=db.db,db.db.updated` |
