@@ -1,5 +1,4 @@
 /*jshint esversion: 8 */
-
 const _app = new Vue({
   el: "#app",
   template: `
