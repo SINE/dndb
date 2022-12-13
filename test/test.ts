@@ -1,4 +1,4 @@
-import { Datastore } from "../src/mod.ts";
+import { Datastore } from "dndb/mod.ts";
 
 let db: Datastore<{ name: string }>;
 
