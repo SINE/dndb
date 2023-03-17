@@ -10,9 +10,9 @@ import {
   _removeOne,
   _update,
   _updateOne,
-} from "./methods/mod.ts";
-import type DataStoreOptions from "./types/ds.options.ts";
-import Executor from "./executor.ts";
+} from "dndb/methods/mod.ts";
+import type DataStoreOptions from "dndb/types/ds.options.ts";
+import Executor from "dndb/executor.ts";
 
 /** Represents the Datastore instance. */
 export class Datastore<Doc extends DataObject> extends EventEmitter {
