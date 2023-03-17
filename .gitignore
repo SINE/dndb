@@ -4,3 +4,4 @@ unit.js
 db.db
 test/benchmarks/
 build/
+deno.lock

@@ -1,5 +1,5 @@
-import { writeFile } from "dndb/storage.ts";
-import type { DataObject, MaybeArray } from "dndb/types.ts";
+import { writeFile } from "../storage.ts";
+import type { DataObject, MaybeArray } from "../types.ts";
 
 export default async (
   filename: string,

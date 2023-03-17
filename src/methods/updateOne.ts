@@ -1,7 +1,7 @@
 import { matches } from "safe-filter/index.js";
 import { update } from "mongobj";
-import { ReadFileStream, WriteFileStream } from "dndb/storage.ts";
-import type { DataObject, Mongobj } from "dndb/types.ts";
+import { ReadFileStream, WriteFileStream } from "../storage.ts";
+import type { DataObject, Mongobj } from "../types.ts";
 
 export default (
   filename: string,

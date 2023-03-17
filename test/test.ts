@@ -1,4 +1,4 @@
-import { Datastore } from "dndb/mod.ts";
+import { Datastore } from "../src/mod.ts";
 
 let db: Datastore<{ name: string }>;
 
@@ -17,6 +17,10 @@ Deno.test("Inserting Multiple Documents", async () => {
     */
   await db.insert({ name: "denyn" });
   await db.insert({ name: "denyn" });
+  await db.insert({ name: "denyn" });
+  await db.insert({ name: Math.random().toString(36).substring(7) });
+  await db.insert({ name: Math.random().toString(36).substring(7) });
+  await db.insert({ name: Math.random().toString(36).substring(7) });
 });
 
 Deno.test("Updating multiple Documents", async () => {
