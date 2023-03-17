@@ -1,6 +1,6 @@
 import { EventEmitter } from "node:events";
-import { resolve } from "https​://deno.land/std​@0.179.0/path/mod.ts";
-import * as fs from "https​://deno.land/std​@0.179.0/fs/mod.ts";
+import { resolve } from "std/path/mod.ts";
+import * as fs from "std/fs/mod.ts";
 import type { DataObject, DbResults, Mongobj, Projection } from "./types.ts";
 import {
   _find,
