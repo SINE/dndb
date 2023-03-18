@@ -1,6 +1,5 @@
 import { EventEmitter } from "node:events";
-import { resolve } from "std/path/mod.ts";
-import * as fs from "std/fs/mod.ts";
+import { fs, resolve } from "../deps.ts";
 import type { DataObject, DbResults, Mongobj, Projection } from "./types.ts";
 import {
   _find,
@@ -10,9 +9,9 @@ import {
   _removeOne,
   _update,
   _updateOne,
-} from "dndb/methods/mod.ts";
-import type DataStoreOptions from "dndb/types/ds.options.ts";
-import Executor from "dndb/executor.ts";
+} from "./methods/mod.ts";
+import type DataStoreOptions from "./types/ds.options.ts";
+import Executor from "./executor.ts";
 
 /** Represents the Datastore instance. */
 export class Datastore<Doc extends DataObject> extends EventEmitter {

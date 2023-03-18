@@ -1,5 +1,6 @@
-import { matches } from "safe-filter/index.js";
-import { update } from "mongobj";
+import { matches, mongobj } from "../../deps.ts";
+const update = mongobj.update;
+
 import { ReadFileStream, WriteFileStream } from "../storage.ts";
 import type { DataObject, Mongobj } from "../types.ts";
 

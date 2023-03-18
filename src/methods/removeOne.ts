@@ -1,4 +1,4 @@
-import { matches } from "safe-filter/index.js";
+import { matches } from "../../deps.ts";
 import { ReadFileStream, WriteFileStream } from "../storage.ts";
 import type { DataObject } from "../types.ts";
 
