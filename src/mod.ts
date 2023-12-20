@@ -13,6 +13,11 @@ import {
 import type DataStoreOptions from "./types/ds.options.ts";
 import Executor from "./executor.ts";
 
+export interface Datastore<Doc extends DataObject> extends EventEmitter {
+    on(event: 'load', listener: (name: string) => void): this;
+    on(event: string, listener: Function): this;
+}
+
 /** Represents the Datastore instance. */
 export class Datastore<Doc extends DataObject> extends EventEmitter {
   public filename: string;
@@ -34,6 +39,7 @@ export class Datastore<Doc extends DataObject> extends EventEmitter {
       this.loadDatabase().then(() => this.emit("load"));
     }
   }
+
 
   /** Loads the database on first load and ensures that path exists. */
   loadDatabase() {
